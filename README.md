@@ -19,8 +19,8 @@ This Tableau project analyzes California real estate price trends, inventory lev
 <img width="1116" alt="Screen Shot 2023-11-12 at 4 10 57 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/d1d39e74-5a95-4594-a926-cb5f3ecb750a">
 
 
-<img width="1109" alt="Screen Shot 2023-11-12 at 4 05 01 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/4fd3c48d-b4c0-4932-9a95-ab1213aa2008">
-<img width="1134" alt="Screen Shot 2023-11-12 at 4 05 24 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/dbe54bc4-8053-486e-bee5-7b526fa60ab0">
+<img width="1091" alt="Screen Shot 2023-11-12 at 11 20 58 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/96cb3c33-964c-4cbc-954e-bdb3e97c3562">
+<img width="1114" alt="Screen Shot 2023-11-12 at 11 20 33 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/85cebe1e-8a0d-4546-a08a-265054309ba3">
 <img width="1159" alt="Screen Shot 2023-11-12 at 4 06 00 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/a5df7ea0-508e-4635-8d6e-6a477b86d9b7">
 
 
