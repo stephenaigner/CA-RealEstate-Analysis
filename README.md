@@ -15,12 +15,11 @@ This Tableau project analyzes California real estate price trends, inventory lev
 <img width="1435" alt="Screen Shot 2023-11-12 at 4 18 46 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/af5a9104-ef7f-46a2-9236-d1fa80528760">
 <img width="1432" alt="Screen Shot 2023-11-12 at 4 19 07 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/ff466219-7dc4-4684-a0db-a218a0a648a0">
 
-<img width="1115" alt="Screen Shot 2023-11-12 at 4 10 22 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/d3e14ecd-b6a2-411b-87c6-d3992a30f427">
-<img width="1116" alt="Screen Shot 2023-11-12 at 4 10 57 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/d1d39e74-5a95-4594-a926-cb5f3ecb750a">
+<img width="1084" alt="Screen Shot 2023-11-12 at 11 51 56 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/1996c021-8947-48cc-a2b9-4b120da77390">
+<img width="1111" alt="Screen Shot 2023-11-12 at 11 52 18 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/89cd3cbb-8322-4216-a1c9-e72d882e1ac4">
 
-
-<img width="1091" alt="Screen Shot 2023-11-12 at 11 20 58 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/96cb3c33-964c-4cbc-954e-bdb3e97c3562">
-<img width="1114" alt="Screen Shot 2023-11-12 at 11 20 33 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/85cebe1e-8a0d-4546-a08a-265054309ba3">
+<img width="1069" alt="Screen Shot 2023-11-12 at 11 54 40 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/7df64fa0-45df-48a4-bb06-d2b9eb5902f6">
+<img width="1068" alt="Screen Shot 2023-11-12 at 11 56 33 PM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/93d7ad85-31b3-4bcd-9c78-093fa439a6fb">
 <img width="1159" alt="Screen Shot 2023-11-12 at 4 06 00 AM" src="https://github.com/stephenaigner/CA-RealEstate-GrowthAnalysis/assets/90224544/a5df7ea0-508e-4635-8d6e-6a477b86d9b7">
 
 
