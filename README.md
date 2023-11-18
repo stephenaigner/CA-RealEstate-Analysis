@@ -2,6 +2,9 @@
 ## Description: 
 This Tableau project analyzes California real estate price trends, inventory levels, and time on market. The data was sourced from a public site: [Data Source](https://www.car.org/en/marketdata/data/housingdata)
 
+## Analysis:
+The median price charts show the effects of the housing mortgage crisis from 2007 - 2010 followed by substantial growth. The Bay Area is the most expensive region for single family homes. The Unsold Inventory Index charts measure the number of months it would take to sell out the remaining inventory at the end of the month. As expected the UII and Time on Market charts peak during the housing crisis. Since then it has continued to drop reveailing demand for single-family homes has consistently increased over the years. 
+
 ## Tableau Dashboards: 
 
 * [California Home Price and Percent Change](https://public.tableau.com/views/CARealEstateGrowthAnalysis1990-2021/PriceGrowthPercentChange?:language=en-US&:display_count=n&:origin=viz_share_link)
